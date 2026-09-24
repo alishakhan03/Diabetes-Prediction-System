@@ -1,0 +1,9 @@
+,abs_correlation_with_target,anova_f_score,rf_importance
+Glucose,0.5123,217.7648,0.2679
+BMI,0.3288,74.1695,0.1598
+DiabetesPedigreeFunction,0.1653,17.1947,0.1244
+Age,0.2407,37.6296,0.1214
+Insulin,0.2459,39.3879,0.0906
+BloodPressure,0.1834,21.2949,0.085
+Pregnancies,0.2082,27.7229,0.0794
+SkinThickness,0.2343,35.5352,0.0715
